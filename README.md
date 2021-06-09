@@ -5,6 +5,8 @@ more compressed files. Zip files make it easy to keep related files together and
 transporting, e-mailing, downloading and storing data and software faster and more
 efficient. The Zip format is the most popular compression format used in the Windows
 environment, and WinZip is the most popular compression utility.
+ 
+
 
 #  Why do people use Zip files?
 - Zip files compress data and therefore save time and space and make
@@ -18,3 +20,11 @@ files as a single Zip file, you benefit from the file grouping as well as compre
   - Saving disk space: If you have large files that are important but seldom used, such as
 large data files, simply compress the files into a Zip file and then unzip (or "extract")
 them only when needed.
+  - easy to keep related files together 
+  - make transporting, e-mailing, downloading and storing data 
+software faster
+
+
+  
+
+
